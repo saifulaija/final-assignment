@@ -163,7 +163,7 @@ body{
   .love__description{
     display: flex;
     justify-content: center;
-    padding: 8rem;
+    padding: 2rem;
     gap:15px;
    
   }
@@ -379,7 +379,7 @@ body{
 
   .facts__gallery__container{
    
-    gap: 70pxpx;
+    gap: 70px;
    
   }
 
@@ -393,6 +393,12 @@ body{
    .footer__text{
     font-size: 14px;
    
+}
+
+.banner__title{
+  font-size: 28px;
+  font-weight: 500;
+
 }
     
 
